@@ -13,11 +13,17 @@
 title: La Página
 
 # Your name to show in the footer
-author: Evelin Reyes 2 DAW
+author: Evelin Reyes • 2 DAW
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
+
+###############################################
+# --- CAMBIOS DE EVELIN--- #
+###############################################
+
+#He añadido dos subpaginas en la seccion de sobre mí
 
 navbar-links:
   Sobre mí: 
