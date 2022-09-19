@@ -13,14 +13,16 @@
 title: La Pagina
 
 # Your name to show in the footer
-author: Some Person
+author: Evelin Reyes 2 DAW
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Sobre mí: 
+    - Sitio Web: "aboutme"
+    - Tambien Yo: "https://www.latimes.com/espanol/vida-y-estilo/articulo/2020-08-08/hoyla-recuento-11-cosas-aman-gatos-top"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
